@@ -11,4 +11,5 @@ The Password Generator currently has a number of factors for generating a passwo
 
 ## Preview
 Here is a preview of the application in the current state
-![Images/GUI.png](GUI.png)
+
+![Images\GUI.png]

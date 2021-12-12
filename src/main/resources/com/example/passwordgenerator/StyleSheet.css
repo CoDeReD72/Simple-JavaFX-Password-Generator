@@ -1,0 +1,36 @@
+.background{
+    -fx-background-color: #dbdbdb;
+}
+
+.button{
+    -fx-font-size: 1em;
+    -fx-font-family: Verdana, sans-serif;
+    -fx-background-color: #3f8fd9;
+    -fx-text-fill: white;
+
+}
+
+.text{
+    -fx-font-size: 1em;
+    -fx-font-family: Verdana, sans-serif;
+    -fx-font-style: italic;
+
+}
+
+
+.rectangle{
+    -fx-background-color: #3f8fd9;
+}
+
+
+#title{
+    -fx-font-size: 1.5em;
+    -fx-font-family: Verdana, sans-serif;
+    -fx-font-style: normal;
+    -fx-fill: white;
+}
+
+#requiredText{
+    -fx-font-style: normal;
+}
+
